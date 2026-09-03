@@ -1,3 +1,4 @@
 .vscode/
 database/*.db
 sql/01-data-exploration.sqlite3-query
+sql/02-modeling.sqlite3-query
